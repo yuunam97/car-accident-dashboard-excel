@@ -17,6 +17,14 @@ Pivot tables were used to create the dashboard with filter panels and slicers to
 
 -------------------------------------------------------------------------------------------------
 
+## Dashboard: 
+
+![Banner](https://github.com/yuunam97/car-accident-dashboard-excel/blob/main/images/dashboard.png?raw=true)
+
+-------------------------------------------------------------------------------------------------
+
 ## File consists of:
 - Main Data => original data used
 - Road Accident Analysis => Analysis + Dashboard + Requirements
+
+-------------------------------------------------------------------------------------------------
